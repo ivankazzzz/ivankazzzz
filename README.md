@@ -1,3 +1,6 @@
+[![GitHub followers](https://img.shields.io/github/followers/ivankazzzz?label=follow&style=social)](https://github.com/ivankazzzz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankazzzz&layout=compact)](https://github.com/ivankazzzz)
+
 ╔═╗┬ ┬┌─┐┌─┐┬  ┬
 ║╣ │││├┤ └─┐│  │
 ╚═╝└┴┘└─┘└─┘┴─┘o
@@ -33,6 +36,13 @@ Sebagai "vibe coder" — saya percaya coding itu harus menyenangkan! Saya suka e
 
 ---
 
+## Pinned repos
+- 🔧 [Project-AutoDeploy](YOUR_REPO_LINK) — Otomasi deployment & CI templates
+- 🤖 [Tiny-ML-Playground](YOUR_REPO_LINK) — Prototipe model ringan untuk studi kasus pengajaran
+- 📄 [Template-LaTeX-Disertasi](YOUR_REPO_LINK) — Template LaTeX untuk dokumen akademik
+
+---
+
 ## Fun fact tentang saya 😄
 - Pecinta template LaTeX yang rapi (ya, saya orang yang *itu*)
 - Kalau coding sambil dengerin musik, produktivitas naik 200%
@@ -40,4 +50,14 @@ Sebagai "vibe coder" — saya percaya coding itu harus menyenangkan! Saya suka e
 
 ---
 
-**💡 Open for collaboration!** Kalau ada project menarik atau ingin brainstorming, feel free to drop a message. Mari kita build something awesome together! ✨
+## English
+
+Hello! I'm Irfan Ananda Ismail 👋
+
+I'm an educator who fell in love with IT and AI. I enjoy teaching, coding, and building things that help others learn more easily.
+
+As a "vibe coder", I believe coding should be fun. I like experimenting with new ideas, rapidly prototyping, and, most importantly, sharing what I learn in an accessible way.
+
+---
+
+**Open for collaboration!** If you have an interesting project or want to brainstorm, feel free to reach out. Let's build something awesome together!
