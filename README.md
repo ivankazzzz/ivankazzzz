@@ -4,11 +4,11 @@ Saya Irfan Ananda Ismail — pendidik & AI Engineer dari Indonesia.
 
 🔭 Saat ini saya fokus pada pengajaran, prototipe AI ringan, dan otomasi developer tooling. 
 🌱 Sedang belajar: ML Ops, deployment otomatis, dan praktik observability.
-📫 Hubungi saya lewat LinkedIn atau email (lihat bagian kontak di bawah).
+📫 Hubungi saya lewat LinkedIn (tautan di bawah).
 
 
 ## 🌐 Sosial
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](YOUR_X_URL) [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://irfanananda28.com)
 
 
 ## 💻 Tech Stack
@@ -39,9 +39,8 @@ Saya seorang pengajar yang menyukai praktik langsung: membangun prototipe, menul
 
 
 ## 📫 Kontak
-- Email: YOUR_EMAIL (ganti)  
 - LinkedIn: YOUR_LINKEDIN_URL  
-- Website: YOUR_WEBSITE_URL
+- Website: https://irfanananda28.com
 
 ---
 
