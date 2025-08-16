@@ -1,63 +1,50 @@
-[![GitHub followers](https://img.shields.io/github/followers/ivankazzzz?label=follow&style=social)](https://github.com/ivankazzzz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankazzzz&layout=compact)](https://github.com/ivankazzzz)
+# 💫 Tentang saya
+Hi 👋
+Saya Irfan Ananda Ismail — pendidik & AI Engineer dari Indonesia.
 
-╔═╗┬ ┬┌─┐┌─┐┬  ┬
-║╣ │││├┤ └─┐│  │
-╚═╝└┴┘└─┘└─┘┴─┘o
-   I  r  f  a  n
+🔭 Saat ini saya fokus pada pengajaran, prototipe AI ringan, dan otomasi developer tooling. 
+🌱 Sedang belajar: ML Ops, deployment otomatis, dan praktik observability.
+📫 Hubungi saya lewat LinkedIn atau email (lihat bagian kontak di bawah).
 
-# Halo! Saya Irfan Ananda Ismail 👋
 
-Saya seorang pengajar yang jatuh cinta dengan dunia IT dan AI. Sehari-hari, saya senang mengajar, menulis kode, dan membangun sesuatu yang bisa membantu orang lain belajar lebih mudah.
+## 🌐 Sosial
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](YOUR_X_URL) [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL)
 
-Sebagai "vibe coder" — saya percaya coding itu harus menyenangkan! Saya suka eksperimen dengan ide-ide baru, membuat prototipe cepat, dan yang paling penting: berbagi apa yang saya pelajari dengan cara yang mudah dipahami.
 
----
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## Mari terhubung! 🤝
-- 🐙 [GitHub](YOUR_GITHUB_URL) — Tempat saya berbagi kode  
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL) — Networking profesional  
-- 🐦 [X/Twitter](YOUR_X_URL) — Random thoughts & tech updates  
-- ✉️ [Email](mailto:YOUR_EMAIL) — Sapa saya kapan saja!  
-- 🌐 [Website](YOUR_WEBSITE_URL) — Portfolio & blog pribadi
 
----
+## 📊 Statistik GitHub
+![](https://github-readme-stats.vercel.app/api?username=ivankazzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ivankazzzz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankazzzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Hal yang saya sukai 💙
-🐍 Python & 🌐 TypeScript • 🤖 Machine Learning • ⚙️ Otomasi yang smart • 📚 Membuat materi belajar • 📄 LaTeX untuk dokumen akademik
 
----
+## 🏆 Penghargaan GitHub
+![](https://github-profile-trophy.vercel.app/?username=ivankazzzz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Yang sedang saya kerjakan 🚀
-- 🎓 **Mengajar & mentoring** — Membantu orang memahami teknologi dengan cara yang fun
-- 🔬 **Eksperimen AI** — Bikin model-model kecil untuk solve masalah nyata  
-- 🛠️ **Tools & automation** — Buat hidup developer lebih mudah
-- ✍️ **Dokumentasi & tutorial** — Karena dokumentasi yang baik = love letter untuk future self
+
+### ✍️ Kutipan Dev Random
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Kontribusi Teratas
+![](https://github-contributor-stats.vercel.app/api?username=ivankazzzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## Pinned repos
-- 🔧 [Project-AutoDeploy](YOUR_REPO_LINK) — Otomasi deployment & CI templates
-- 🤖 [Tiny-ML-Playground](YOUR_REPO_LINK) — Prototipe model ringan untuk studi kasus pengajaran
-- 📄 [Template-LaTeX-Disertasi](YOUR_REPO_LINK) — Template LaTeX untuk dokumen akademik
+## 🔎 Ringkasan singkat
+Saya seorang pengajar yang menyukai praktik langsung: membangun prototipe, menulis tutorial, dan membuat alat kecil yang membantu siswa dan tim. Jika Anda tertarik kolaborasi atau mentoring, hubungi saya.
+
+
+## 📫 Kontak
+- Email: YOUR_EMAIL (ganti)  
+- LinkedIn: YOUR_LINKEDIN_URL  
+- Website: YOUR_WEBSITE_URL
 
 ---
 
-## Fun fact tentang saya 😄
-- Pecinta template LaTeX yang rapi (ya, saya orang yang *itu*)
-- Kalau coding sambil dengerin musik, produktivitas naik 200%
-- Selalu excited kalau ada yang tanya soal tech — don't hesitate to reach out!
+[![](https://visitcount.itsvg.in/api?id=ivankazzzz&icon=0&color=1)](https://visitcount.itsvg.in)
 
----
-
-## English
-
-Hello! I'm Irfan Ananda Ismail 👋
-
-I'm an educator who fell in love with IT and AI. I enjoy teaching, coding, and building things that help others learn more easily.
-
-As a "vibe coder", I believe coding should be fun. I like experimenting with new ideas, rapidly prototyping, and, most importantly, sharing what I learn in an accessible way.
-
----
-
-**Open for collaboration!** If you have an interesting project or want to brainstorm, feel free to reach out. Let's build something awesome together!
+<!-- Profile structured like adityadwic — customized for Irfan -->
