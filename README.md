@@ -71,12 +71,12 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivankazzzz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Irfan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankazzzz&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivankazzzz&theme=github_dark" alt="Irfan's GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivankazzzz&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivankazzzz&theme=github_dark" alt="Top repositories by language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivankazzzz&theme=github_dark" alt="GitHub statistics" />
 </p>
 
 ## Collaboration
