@@ -52,6 +52,51 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <strong>Academic Infrastructure Project</strong>
+      <h3>Template Disertasi FMIPA UNP (LaTeX)</h3>
+      <p>
+        A LaTeX-based dissertation template designed to make doctoral writing at FMIPA Universitas Negeri Padang more structured,
+        consistent, and easier to maintain across chapters, citations, tables, figures, and final PDF compilation.
+      </p>
+      <p>
+        <kbd>LaTeX</kbd>
+        <kbd>Dissertation Template</kbd>
+        <kbd>Academic Writing</kbd>
+        <kbd>FMIPA UNP</kbd>
+      </p>
+      <p>
+        <strong>Impact:</strong> introduced a more helpful dissertation writing workflow and became an early LaTeX-based dissertation template milestone for the study program.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Research-Based Innovation Project</strong>
+      <h3>Etnovan</h3>
+      <p>
+        A conversational artificial intelligence framework designed to preserve, disseminate, and advance Indonesian ethnoscience knowledge.
+        EtnoVan supports cultural heritage preservation by making indigenous science knowledge more accessible through a domain-specific AI system.
+      </p>
+      <p>
+        <kbd>Conversational AI</kbd>
+        <kbd>Large Language Model</kbd>
+        <kbd>Ethnoscience</kbd>
+        <kbd>Cultural Heritage</kbd>
+        <kbd>Knowledge Preservation</kbd>
+      </p>
+      <p>
+        <strong>Impact:</strong> improved knowledge retention, sustained user engagement, high usability, and stronger access to Indonesian ethnoscience knowledge through AI-mediated preservation.
+      </p>
+      <p>
+        <strong>Research highlights:</strong> 487 participants across 12 Indonesian provinces, 50,000 curated ethnoscientific documents, 82.4% knowledge retention, 88.5 SUS score, and 94.7% response accuracy.
+      </p>
+      <p>
+        <a href="https://www.malque.pub/ojs/index.php/msj/article/view/16193">View publication</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## Tech Stack
