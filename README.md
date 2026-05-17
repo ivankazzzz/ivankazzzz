@@ -62,6 +62,38 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <strong>Scopus Author Profile</strong>
+      <p>
+        Indexed author profile for tracking Scopus-indexed publications and citation records.
+      </p>
+      <p>
+        <kbd>Scopus Author ID: 60069154800</kbd>
+        <kbd>Indexed Publications</kbd>
+        <kbd>Citation Tracking</kbd>
+      </p>
+      <p>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=60069154800">View Scopus profile</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>ResearchGate Profile</strong>
+      <p>
+        Academic networking profile for sharing publications, full-text research, and scholarly updates.
+      </p>
+      <p>
+        <kbd>Research Publications</kbd>
+        <kbd>Full-text Sharing</kbd>
+        <kbd>Academic Network</kbd>
+      </p>
+      <p>
+        <a href="https://www.researchgate.net/profile/Irfan-Ismail-7?ev=hdr_xprf">View ResearchGate profile</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## Impact Project
