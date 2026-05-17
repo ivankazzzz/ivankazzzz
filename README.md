@@ -32,11 +32,27 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 
 ## Impact Project
 
-### Absensi Digital Universitas Ekasakti
-
-An impact-driven digital attendance system developed to support attendance workflows at Universitas Ekasakti. The project focuses on helping campus operations become more structured, easier to monitor, and better documented.
-
-**Project focus:** Higher education, digital attendance, academic administration, campus workflow.
+<table>
+  <tr>
+    <td>
+      <strong>Featured Impact Project</strong>
+      <h3>Absensi Digital Universitas Ekasakti</h3>
+      <p>
+        An impact-driven digital attendance system developed to support attendance workflows at Universitas Ekasakti.
+        The project helps campus operations become more structured, easier to monitor, and better documented.
+      </p>
+      <p>
+        <kbd>Higher Education</kbd>
+        <kbd>Digital Attendance</kbd>
+        <kbd>Academic Administration</kbd>
+        <kbd>Campus Workflow</kbd>
+      </p>
+      <p>
+        <strong>Impact:</strong> clearer attendance records, easier monitoring, and practical support for daily university operations.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
