@@ -1,63 +1,83 @@
-<svg width="920" height="300" viewBox="0 0 920 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Absensi Digital Universitas Ekasakti</title>
-  <desc id="desc">Impact project card for a digital attendance system at Universitas Ekasakti.</desc>
+  <desc id="desc">Featured impact project card for a digital attendance system at Universitas Ekasakti.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="0.56" stop-color="#10243A"/>
-      <stop offset="1" stop-color="#0D1117"/>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
     </linearGradient>
-    <linearGradient id="accent" x1="80" y1="42" x2="870" y2="260" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2F81F7"/>
-      <stop offset="0.5" stop-color="#3FB950"/>
-      <stop offset="1" stop-color="#A371F7"/>
+    <linearGradient id="line" x1="60" y1="40" x2="940" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#010409" flood-opacity="0.35"/>
-    </filter>
+    <linearGradient id="screen" x1="666" y1="80" x2="900" y2="281" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#172554"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="920" height="300" rx="28" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="917" height="297" rx="26.5" stroke="#30363D" stroke-width="3"/>
-  <path d="M40 244 C170 188 240 258 370 202 C510 142 600 224 748 154 C820 120 866 118 900 124" stroke="url(#accent)" stroke-width="3" opacity="0.55"/>
-  <path d="M40 262 C180 214 286 278 430 222 C584 162 650 220 790 184 C842 170 880 170 904 174" stroke="#58A6FF" stroke-width="1.6" opacity="0.25"/>
+  <rect width="1000" height="360" rx="26" fill="url(#panel)"/>
+  <rect x="1" y="1" width="998" height="358" rx="25" stroke="#243044" stroke-width="2"/>
+  <rect x="60" y="38" width="880" height="4" rx="2" fill="url(#line)"/>
 
-  <g filter="url(#shadow)">
-    <rect x="42" y="40" width="836" height="220" rx="22" fill="#161B22" fill-opacity="0.92"/>
-    <rect x="43" y="41" width="834" height="218" rx="21" stroke="#30363D" stroke-width="2"/>
-  </g>
+  <g transform="translate(60 74)">
+    <rect x="0" y="0" width="158" height="34" rx="17" fill="#E0F2FE" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="79" y="22" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#7DD3FC">IMPACT PROJECT</text>
 
-  <g transform="translate(72 70)">
-    <rect x="0" y="0" width="132" height="32" rx="16" fill="#0D419D"/>
-    <text x="66" y="21" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">IMPACT PROJECT</text>
+    <text x="0" y="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="43" font-weight="800" fill="#F8FAFC">Absensi Digital</text>
+    <text x="0" y="126" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" fill="#CBD5E1">Universitas Ekasakti</text>
 
-    <text x="0" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#F0F6FC">Absensi Digital</text>
-    <text x="0" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#C9D1D9">Universitas Ekasakti</text>
-
-    <text x="0" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#8B949E">
-      Digital attendance system for structured campus workflows, cleaner records, and easier monitoring.
+    <text x="0" y="171" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94A3B8">
+      Sistem absensi digital untuk membantu alur kehadiran kampus menjadi
+    </text>
+    <text x="0" y="198" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#94A3B8">
+      lebih rapi, terpantau, dan mudah digunakan dalam operasional harian.
     </text>
 
-    <g transform="translate(0 176)">
-      <rect x="0" y="0" width="154" height="30" rx="15" fill="#1F6FEB" fill-opacity="0.16" stroke="#1F6FEB" stroke-opacity="0.55"/>
-      <text x="77" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#79C0FF">Higher Education</text>
+    <g transform="translate(0 230)">
+      <rect x="0" y="0" width="154" height="44" rx="12" fill="#020617" fill-opacity="0.55" stroke="#1E293B"/>
+      <text x="18" y="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#38BDF8">DOMAIN</text>
+      <text x="18" y="33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#E2E8F0">Higher Education</text>
 
-      <rect x="166" y="0" width="158" height="30" rx="15" fill="#238636" fill-opacity="0.16" stroke="#238636" stroke-opacity="0.55"/>
-      <text x="245" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7EE787">Digital Attendance</text>
+      <rect x="170" y="0" width="154" height="44" rx="12" fill="#020617" fill-opacity="0.55" stroke="#1E293B"/>
+      <text x="188" y="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#22C55E">FOCUS</text>
+      <text x="188" y="33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#E2E8F0">Digital Attendance</text>
 
-      <rect x="336" y="0" width="158" height="30" rx="15" fill="#8957E5" fill-opacity="0.16" stroke="#8957E5" stroke-opacity="0.55"/>
-      <text x="415" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#D2A8FF">Campus Workflow</text>
+      <rect x="340" y="0" width="154" height="44" rx="12" fill="#020617" fill-opacity="0.55" stroke="#1E293B"/>
+      <text x="358" y="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#A78BFA">IMPACT</text>
+      <text x="358" y="33" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#E2E8F0">Campus Workflow</text>
     </g>
   </g>
 
-  <g transform="translate(690 76)">
-    <rect x="0" y="0" width="126" height="126" rx="28" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
-    <rect x="31" y="28" width="64" height="76" rx="12" fill="#21262D" stroke="#58A6FF" stroke-width="3"/>
-    <path d="M49 54H77" stroke="#7EE787" stroke-width="5" stroke-linecap="round"/>
-    <path d="M49 73H77" stroke="#7EE787" stroke-width="5" stroke-linecap="round"/>
-    <path d="M49 92H66" stroke="#7EE787" stroke-width="5" stroke-linecap="round"/>
-    <circle cx="95" cy="95" r="22" fill="#238636"/>
-    <path d="M84 95L91 102L107 84" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(648 72)">
+    <rect x="0" y="0" width="292" height="220" rx="22" fill="#020617" stroke="#243044" stroke-width="2"/>
+    <rect x="18" y="18" width="256" height="184" rx="16" fill="url(#screen)" stroke="#1E293B"/>
+
+    <g transform="translate(42 44)">
+      <rect x="0" y="0" width="96" height="14" rx="7" fill="#38BDF8"/>
+      <rect x="0" y="32" width="208" height="1" fill="#334155"/>
+
+      <g transform="translate(0 56)">
+        <circle cx="12" cy="12" r="12" fill="#22C55E" fill-opacity="0.18"/>
+        <path d="M6 12L10 16L18 8" stroke="#4ADE80" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="38" y="5" width="136" height="8" rx="4" fill="#CBD5E1"/>
+        <rect x="38" y="21" width="90" height="7" rx="3.5" fill="#64748B"/>
+      </g>
+
+      <g transform="translate(0 102)">
+        <circle cx="12" cy="12" r="12" fill="#38BDF8" fill-opacity="0.16"/>
+        <path d="M12 6V12L17 15" stroke="#7DD3FC" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="38" y="5" width="116" height="8" rx="4" fill="#CBD5E1"/>
+        <rect x="38" y="21" width="126" height="7" rx="3.5" fill="#64748B"/>
+      </g>
+
+      <g transform="translate(0 148)">
+        <rect x="0" y="0" width="208" height="10" rx="5" fill="#1E293B"/>
+        <rect x="0" y="0" width="146" height="10" rx="5" fill="#22C55E"/>
+      </g>
+    </g>
   </g>
 </svg>
