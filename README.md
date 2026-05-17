@@ -32,33 +32,11 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 
 ## Impact Project
 
-<table>
-  <tr>
-    <td width="70">
-      <img src="https://img.shields.io/badge/Impact-Project-0A66C2?style=for-the-badge" alt="Impact Project" />
-    </td>
-    <td>
-      <h3>Absensi Digital Universitas Ekasakti</h3>
-      <p>
-        A digital attendance system designed to support more reliable, structured, and accessible attendance workflows at Universitas Ekasakti.
-      </p>
-      <p>
-        This project reflects my focus on building practical academic systems that answer real institutional needs, not only software experiments.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-Higher%20Education-1F6FEB?style=flat-square" alt="Higher Education" />
-        <img src="https://img.shields.io/badge/Focus-Digital%20Attendance-238636?style=flat-square" alt="Digital Attendance" />
-        <img src="https://img.shields.io/badge/Impact-Campus%20Workflow-8957E5?style=flat-square" alt="Campus Workflow" />
-      </p>
-      <ul>
-        <li>Digital transformation for university attendance workflows</li>
-        <li>Cleaner data recording and easier attendance monitoring</li>
-        <li>Practical web-based tools for academic administration</li>
-        <li>Reliable systems that support daily campus operations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/impact-absensi-digital.svg" alt="Absensi Digital Universitas Ekasakti impact project" />
+</p>
+
+**Absensi Digital Universitas Ekasakti** is a digital attendance system designed for structured campus workflows, cleaner records, and easier monitoring.
 
 ## Tech Stack
 
