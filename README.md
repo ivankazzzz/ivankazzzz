@@ -30,6 +30,40 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 - AI-assisted tools for research, documentation, and learning support
 - Clean documentation, reproducible workflows, and maintainable code
 
+## Academic Metrics
+
+<table>
+  <tr>
+    <td>
+      <strong>Google Scholar Profile</strong>
+      <p>
+        Research visibility snapshot from my Google Scholar profile.
+      </p>
+      <table>
+        <tr>
+          <td><strong>Citations</strong></td>
+          <td><strong>h-index</strong></td>
+          <td><strong>i10-index</strong></td>
+        </tr>
+        <tr>
+          <td>233</td>
+          <td>8</td>
+          <td>6</td>
+        </tr>
+      </table>
+      <p>
+        <kbd>Science Education</kbd>
+        <kbd>Educational Technology</kbd>
+        <kbd>AI in Education</kbd>
+        <kbd>Ethnoscience</kbd>
+      </p>
+      <p>
+        <a href="https://scholar.google.com/citations?user=fffNQqcAAAAJ&hl=id">View Google Scholar profile</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Impact Project
 
 <table>
