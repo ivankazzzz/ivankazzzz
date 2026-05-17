@@ -32,11 +32,11 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 
 ## Impact Project
 
-<p align="center">
-  <img src="./assets/impact-absensi-digital.svg" alt="Absensi Digital Universitas Ekasakti impact project" />
-</p>
+### Absensi Digital Universitas Ekasakti
 
-**Absensi Digital Universitas Ekasakti** is a digital attendance system designed for structured campus workflows, cleaner records, and easier monitoring.
+An impact-driven digital attendance system developed to support attendance workflows at Universitas Ekasakti. The project focuses on helping campus operations become more structured, easier to monitor, and better documented.
+
+**Project focus:** Higher education, digital attendance, academic administration, campus workflow.
 
 ## Tech Stack
 
