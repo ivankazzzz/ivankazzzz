@@ -30,6 +30,19 @@ I care about systems that are clear, useful, well-documented, and reliable enoug
 - AI-assisted tools for research, documentation, and learning support
 - Clean documentation, reproducible workflows, and maintainable code
 
+## Impact Project
+
+**Absensi Digital Universitas Ekasakti**
+
+A digital attendance system built to support more reliable, structured, and accessible attendance workflows at Universitas Ekasakti. This project reflects my interest in building practical academic systems that are useful for real institutional needs, not only as software experiments.
+
+Key focus areas:
+
+- Digital transformation for university attendance workflows
+- Cleaner data recording and easier attendance monitoring
+- Practical web-based tools for academic administration
+- Reliable systems that support daily campus operations
+
 ## Tech Stack
 
 **Languages**
